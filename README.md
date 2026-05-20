@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! I'm Venkata Naga Manikanta Pathakoti 👋
+**Full-Stack Software Developer | Enterprise Architecture & System Integration**
 
-<!--
-**manikantapathakoti08-eng/manikantapathakoti08-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer passionate about building highly scalable, secure web applications and robust system architectures. I focus on solving complex backend constraints, integrating cloud services, and creating seamless frontend user experiences.
 
-Here are some ideas to get you started:
+**🛠️ Technical Stack**
+* **Backend:** Java, Spring Boot
+* **Frontend:** React, Vite
+* **Database:** PostgreSQL
+* **Infrastructure & Security:** Nginx, JWT, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I do**
+* Architect full-stack platforms and data-driven systems.
+* Implement secure, token-based authentication and reverse proxies.
+* Design and deploy enterprise-level solutions using modern cloud infrastructure.
+
+📫 **Let's connect:** I am always open to discussing web development, software architecture, and freelance collaborations!
