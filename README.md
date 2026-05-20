@@ -5,7 +5,7 @@ I am a software developer passionate about building highly scalable, secure web 
 
 **🛠️ Technical Stack**
 * **Backend:** Java, Spring Boot
-* **Frontend:** React, Vite
+* **Frontend:** React, Vite, Angular 
 * **Database:** PostgreSQL
 * **Infrastructure & Security:** Nginx, JWT, Azure
 
