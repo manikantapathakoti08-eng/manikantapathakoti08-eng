@@ -14,4 +14,13 @@ I am a software developer passionate about building highly scalable, secure web 
 * Implement secure, token-based authentication and reverse proxies.
 * Design and deploy enterprise-level solutions using modern cloud infrastructure.
 
+**LeetCode**
+https://leetcode.com/u/manikantapathakoti/
+
+**HackerRank**
+https://www.hackerrank.com/profile/manikantapathak1
+
+**Linkdin**
+www.linkedin.com/in/venkata-naga-manikanta
+
 📫 **Let's connect:** I am always open to discussing web development, software architecture, and freelance collaborations!
